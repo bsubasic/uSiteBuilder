@@ -1,5 +1,5 @@
 ----------------------------------------------------
-uSiteBuilder v3 
+uSiteBuilder v7.3.0 
 ============
 
 (in progress, compatibility with latest stable 7.3.0 version)
